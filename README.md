@@ -7,6 +7,7 @@
   <p><i>A simple browser for using things that you might want to hide your identity with.</a></i></p>
 </div>
 
+<h6>
 <a>
   <a href="https://github.com/frubby21/simple-web/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/frubby21/simple-web?style=for-the-badge&labelColor=23272A&color=5865F2"/>
