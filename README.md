@@ -29,9 +29,9 @@
 - **Tor Network Support:** Connect to the Tor Network easily, and switch back to the standard internet with just the click of a button.
 - **More Features coming soon:** MORE FEATURES COMING SOON!
 
-## Download
+## Downloads [Unavailable]
 
 > [!NOTE]
-> **Notice:** UNAVAILABLE
+> **Notice:** There is no downloads yet, but since you're on the dev branch, come back soon, and you might be able to clone and build yourself. No hopes up yet though! - frubby21
 
-UNAVAILIBLE
+Hey GitHub repo explorer, you stumbled onto the dev branch eh? Well, read the notice above! - frubby21
