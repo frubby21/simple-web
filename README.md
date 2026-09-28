@@ -16,10 +16,9 @@
     <img src="https://img.shields.io/github/stars/frubby21/simple-web?style=for-the-badge&labelColor=23272A&color=FEE75C" />
   </a>
   <a href="https://github.com/frubby21/simple-web/releases">
-    <img src="https://img.shields.io/github/v/release/frubby21/simple-web?style=for-the-badge&label=Latest&labelColor=23272A&color=00BFFF
-" />
+    <img src="https://img.shields.io/github/v/release/frubby21/simple-web?style=for-the-badge&label=Latest&labelColor=23272A&color=00BFFF"/>
   </a>
-  <br />
+  <br/>
 </h6>
 
 ## Features
